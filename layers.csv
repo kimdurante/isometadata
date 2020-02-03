@@ -1,0 +1,13 @@
+filename,spatial reference,type,west,south,east,north,format,identifier,title,description,originator,publisher,dateIssued,temporal,subject,topicCat,spatialSubject,fc_uuid,language,collectionTitle,collectionId,access,rights
+American_River_Watershed.shp,4326,Polygon,-121.284428701083,38.6185990183463,-119.986715699745,39.3159012314443,Shapefile
+CarsonWalkerMonoAdobe_Watershed.shp,3310,Polygon,784.392700001597,-32970.7470999993,130937.293400001,99178.7674000002,Shapefile
+Feather_Watershed.shp,3310,Polygon,-135103.6579,163832.258400001,-7926.03759999946,276396.8357,Shapefile
+KingsKaweahTule_Watershed.shp,3310,Polygon,47999.8251999989,-319571.0384,159850.9914,-89530.0758999996,Shapefile
+Sierra_Nevada_Conservancy_Boundary.shp,4326,Polygon,-122.247665918618,35.064862097181,-117.735384107593,41.9949193934604,Shapefile
+Southern_Sierra_Fisher_Conservation_Area.shp,4326,Polygon,-119.831339186821,35.5019652642304,-118.088351188615,37.6605634166824,Shapefile
+Stanislaus_Watershed.shp,3310,Polygon,-58010.4921000004,-22916.9251000006,33890.9959000014,55585.1060000006,Shapefile
+Tehachapi_Watershed.shp,3310,Polygon,142672.975299999,-324766.5647,198675.995900001,-195687.6031,Shapefile
+TruckeeEagle_LakesSurprise_Valley_Watershed.shp,3310,Polygon,-106140.7082,125859.221999999,371.680100001395,441853.2629,Shapefile
+Tuolumne_Watershed.shp,3310,Polygon,-52575.0788000003,-39908.3085999992,69770.8839000016,23211.9960999992,Shapefile
+Upper_Sacramento_Watershed.shp,3310,Polygon,-189667.8419,90292.1966999993,-106381.3499,311390.923599999,Shapefile
+Upper_San_Joaquin_Watershed.shp,3310,Polygon,-24140.4375,-131065.78125,120252.625,-30938.59375,Shapefile
