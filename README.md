@@ -1,2 +1,1 @@
-# isometadata
-Creating and Transforming ISO Metadata for Geospatial Datasets
+# Creating and Transforming ISO Metadata for Geospatial Datasets
